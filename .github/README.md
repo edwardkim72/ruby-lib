@@ -1,3 +1,10 @@
+git init
+git add *
+git commit -m "first commit"
+git remote add origin https://github.com/edwardkim72/ruby-lib.git
+git push -u origin master
+
+
 The Factory Simulation
 
 From CIO.com, uploaded by (name), based on the work of Matthew 
@@ -16,3 +23,7 @@ This code developed and tested under ruby 2.0.0p247. As long as you have ruby 1.
 
 ## Running the Tests
 
+
+git add README.md
+git commit -m "Updated the readme to provide infomation"
+git push
